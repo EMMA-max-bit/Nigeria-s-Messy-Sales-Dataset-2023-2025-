@@ -2,7 +2,7 @@
 The Nigeria Messy Sales Dataset (2023–2025) contains 550 records and 9 columns, documenting sales transactions from multiple states across Nigeria. Each record includes details such as the customer name, state, product sold, quantity, price, total sale, date, sales channel, and order ID.
 
 ## Data Source:
-From Kaggle
+From Kaggle, Download here 
 
 ## Data Cleaning Summary
 The data cleaning and preparation process was conducted entirely in Microsoft Excel to ensure data accuracy and consistency. The dataset was carefully reviewed to identify missing values, inconsistent entries, and formatting errors. Missing values in key fields such as Units Sold and Unit Price were filled using product-level averages, while blank Customer Name and Sales Channel entries were replaced with “Unknown.” Inconsistent text formats, such as state and product names, were standardized using proper case, and date values were converted to a uniform format for easy time-based analysis.
